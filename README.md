@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🌙 Meu nome é Pedro
 - 🔭 Sou estudante de Engenharia da Computação
