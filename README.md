@@ -11,7 +11,4 @@
 
 ## 
 
-<div>
-<a href="linkedin.com/in/pedro-antonio-mota-de-araújo-65162b278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedro-antonio-mota-de-araújo-65162b278/)
