@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌙 Meu nome é Pedro
+- 🌙 Meu nome é Pedro Antonio
 - 🔭 Sou estudante de Engenharia da Computação
 
 ##
