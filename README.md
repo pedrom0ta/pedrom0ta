@@ -40,9 +40,9 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### ⛽ Análise de Dados — Gasolina E32
+### Análise de Dados — Gasolina E32
 
 Projeto de análise de dados sobre o impacto da nova mistura **E32 na gasolina brasileira**, utilizando dados da ANP.
 
@@ -56,7 +56,7 @@ Projeto de análise de dados sobre o impacto da nova mistura **E32 na gasolina b
 
 ---
 
-### 🛍️ Sandra Ellen Modas — Catálogo Digital
+### Sandra Ellen Modas — Catálogo Digital
 
 Aplicação web desenvolvida para gerenciamento e apresentação de produtos de uma loja de moda.
 
@@ -70,7 +70,7 @@ Aplicação web desenvolvida para gerenciamento e apresentação de produtos de 
 
 ---
 
-### 🚗 AutoGest ERP
+### AutoGest ERP
 
 Sistema de gerenciamento desenvolvido para oficinas mecânicas.
 
@@ -85,7 +85,7 @@ Sistema de gerenciamento desenvolvido para oficinas mecânicas.
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrom0ta\&show_icons=true\&theme=github_dark\&hide_border=true)
 
