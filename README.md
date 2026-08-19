@@ -90,3 +90,15 @@ Sistema de gerenciamento desenvolvido para oficinas mecânicas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Antonio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINK_DO_LINKEDIN)
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrom0ta-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedrom0ta)
+
+---
+
+## 🕹️ Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrom0ta/pedrom0ta/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrom0ta/pedrom0ta/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/pedrom0ta/pedrom0ta/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</p>
