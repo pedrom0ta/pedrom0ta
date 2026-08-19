@@ -85,14 +85,6 @@ Sistema de gerenciamento desenvolvido para oficinas mecânicas.
 
 ---
 
-## GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrom0ta\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrom0ta\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Antonio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINK_DO_LINKEDIN)
