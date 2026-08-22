@@ -87,7 +87,7 @@ Sistema de gerenciamento desenvolvido para oficinas mecânicas.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Antonio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Antonio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedroantonio-dev/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrom0ta-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedrom0ta)
 
