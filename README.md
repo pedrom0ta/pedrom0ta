@@ -5,7 +5,7 @@
 🚀 Buscando oportunidades de **estágio em tecnologia**
 
 ---
-
+a
 ## 💻 Tecnologias
 
 ### Linguagens
