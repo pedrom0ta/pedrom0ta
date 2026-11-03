@@ -4,7 +4,7 @@
 💻 Desenvolvedor com foco em **Software, Dados e Inteligência Artificial**
 🚀 Buscando oportunidades de **estágio em tecnologia**
 
----
+---a
 
 ## 💻 Tecnologias
 
